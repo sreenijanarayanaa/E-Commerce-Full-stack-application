@@ -96,11 +96,6 @@ The application will be available at:
 
 📈 Future Enhancements
 ```bash
-Integrate payment gateway (Razorpay)
-
-Add product reviews and ratings
-
-Add wishlist functionality
 
 Enable email notifications
 
@@ -111,8 +106,8 @@ Deploy to cloud (AWS/GCP/Azure)
 
 📬 Contact
 Developer: Sreenija Narayana
-📧 Email: sreenijanarayanaa@gmail.com
-🌐 LinkedIn: https://www.linkedin.com/in/sreenijanarayana/
+- 📧 Email: sreenijanarayanaa@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/sreenijanarayana/
 
 
 
