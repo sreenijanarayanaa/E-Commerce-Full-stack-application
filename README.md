@@ -21,6 +21,19 @@
 
 ### 🗃️ Efficient Data Storage:
 - **MySQL** used for robust, relational data management.
+  
+### 💳 Payment Gateway Integration:
+- Secure online payments enabled using **Stripe** or **Razorpay**.
+
+### ⭐ Product Reviews and Ratings:
+- Users can leave reviews and ratings for purchased products.
+
+### ❤️ Wishlist Functionality:
+- Users can add products to their wishlist for future reference.
+
+### 📊 Admin Dashboard Analytics:
+- Admins can view analytics like total sales, orders, users, revenue trends, and more via a real-time dashboard.
+
 
 ---
 
