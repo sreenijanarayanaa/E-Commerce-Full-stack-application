@@ -64,15 +64,14 @@ Ensure the following are installed on your system:
 ### 📁 Clone the repository:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/sreenijanarayanaa/E-Commerce-Full-stack-application.git
 ```
 
 🔙 Backend (Spring Boot):
 Navigate to the backend folder and run the Spring Boot application:
 
 ```bash
-cd 
+cd Backend-SpringBoot 
 mvn spring-boot:run
 Make sure your MySQL database is running, and update the application.properties file with your database configuration:
 ```
@@ -86,7 +85,7 @@ spring.datasource.password=your-password
 Navigate to the frontend folder, install dependencies, and run the React app:
 
 ```bash
-cd 
+cd Frontend-React
 npm install
 npm start
 ```
@@ -113,7 +112,7 @@ Deploy to cloud (AWS/GCP/Azure)
 📬 Contact
 Developer: Sreenija Narayana
 📧 Email: sreenijanarayanaa@gmail.com
-🌐 LinkedIn: 
+🌐 LinkedIn: https://www.linkedin.com/in/sreenijanarayana/
 
 
 
